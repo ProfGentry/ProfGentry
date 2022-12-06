@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+#### Pronouns: She/Her/Professor
+####
+#### 💬 Ask me about continuing your higher education in Computer Science
+#### 📫 How to reach me: jennifer@gentrytechnology.com or on [Discord](https://discord.gg/QwsBFrMM4t): ProfG
+#### ⚡ Fun fact: Do what you love and love what you do. 
 <!--
 **ProfGentry/ProfGentry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
